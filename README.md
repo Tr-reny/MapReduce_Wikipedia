@@ -1,1 +1,1 @@
-# MapReduce_Wikipedia-master
+# MapReduce_Wikipedia
