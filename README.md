@@ -1,6 +1,6 @@
 <h1 align="center">
 MapReduce_Wikipedia
-</h1>a
+</h1>
 
 <p align="center">
    📄 🚀
